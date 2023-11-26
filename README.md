@@ -11,6 +11,7 @@
 <p> Kitty terminal </p>
 <p> Xsetroot </p>
 <p> Xwallpaper </p>
+<p> picom </p>
 
 <h5>How to install?</h5>
 <p> go in .config/dwm direcotry,</p>
