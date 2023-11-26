@@ -12,8 +12,8 @@
 <p> Xsetroot </p>
 <p> Xwallpaper </p>
 
-<p>How to install?</p>
-<p> cd into .config/dwm</p>
-<p>run make, sudo make clean install</p>
+<h5>How to install?</h5>
+<p> go in .config/dwm direcotry,</p>
+<p>run $ make && sudo make clean install</p>
 
 <h4> Contributing: (i haven't set the xwallpaper to be started automatically yet. If you want to help, feel free to.) </h4>
