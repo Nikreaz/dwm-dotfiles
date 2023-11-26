@@ -1,0 +1,4 @@
+#this is a dotfile expected to be executed via dmenu. It sets your wallpaper and launches picom.
+xwallpaper --stretch ~/wallpaper.jpg
+xsetroot -name "The power of freedom"
+picom
