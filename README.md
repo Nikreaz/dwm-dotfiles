@@ -7,7 +7,7 @@
 
 <p> Dmenu </p>
 <p> Base-devel (Arch linux based distros)
-<p> Any of the <a href="https://NerdFonts.com">Fira Code</a> nerd font
+<p> <a href="https://NerdFonts.com">Fira Code</a> nerd font
 <p> Kitty terminal </p>
 <p> Xsetroot </p>
 <p> Xwallpaper </p>
