@@ -13,4 +13,4 @@
 <p> Xwallpaper </p>
 <p> picom </p>
 
-If you have any questions, please see Wiki.
+If you have any questions, please see <a href="https://github.com/Nikreaz/dwm-dotfiles/wiki/Q&A">Wiki.</a>
