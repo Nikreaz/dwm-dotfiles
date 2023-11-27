@@ -13,8 +13,4 @@
 <p> Xwallpaper </p>
 <p> picom </p>
 
-<h5>How to install?</h5>
-<p> cd into .config/dwm direcotry,</p>
-<p>run $ make && sudo make clean install</p>
-
-<h4> Contributing: (i haven't set the xwallpaper to be started automatically yet. If you want to help, feel free to.) </h4>
+If you have any questions, please see Wiki.
