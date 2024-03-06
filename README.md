@@ -1,4 +1,7 @@
 # dwm-dotfiles
+
+<h1>REPOSITORY MOVED: <a href="https://github.com/nikrean">@nikrean</a></h1>
+<p>This repository is officially unmaintained. I will create a new repo soon.</p>
 <h1>My dotfiles</h1>
 
 <img src="https://github.com/Nikreaz/dwm-dotfiles/blob/main/screenshot.png?raw=true">
